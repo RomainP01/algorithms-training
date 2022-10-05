@@ -10,8 +10,6 @@ public class AlgorithmsTrainingApplication {
 		SpringApplication.run(AlgorithmsTrainingApplication.class, args);
 	}
 
-	public void algo1(){
 
-	}
 
 }
