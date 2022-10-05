@@ -1,4 +1,4 @@
-package com.example.RomainP01.algorithmstraining.isograd;
+package com.example.RomainP01.algorithmstraining.isograd.medium;
 
 import java.util.ArrayList;
 import java.util.List;
