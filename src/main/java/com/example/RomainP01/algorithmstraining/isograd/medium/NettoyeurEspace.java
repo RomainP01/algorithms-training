@@ -18,7 +18,6 @@ public class NettoyeurEspace {
         Scanner sc = new Scanner(System.in);
         var firstLine = sc.nextLine();
         var garbages = sc.nextLine().split("");
-        var boolean =Arrays.stream(garbages).anyMatch("2");
         var numOfWays = 0;
         for (var i = 0; i < garbages.length; i++) {
             var robot1 = "";
