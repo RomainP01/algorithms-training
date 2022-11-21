@@ -1,5 +1,6 @@
 package com.example.RomainP01.algorithmstraining;
 
+import com.example.RomainP01.algorithmstraining.cryptography.CaesarCipher;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
