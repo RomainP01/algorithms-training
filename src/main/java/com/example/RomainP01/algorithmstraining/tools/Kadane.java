@@ -1,5 +1,9 @@
-package com.example.RomainP01.algorithmstraining.math;
+package com.example.RomainP01.algorithmstraining.tools;
 
+//Kadane's algorithm
+//meh = max ending here
+//msf = max so far
+//https://www.youtube.com/watch?v=YxuK6A3SvTs&t=224s
 public class Kadane {
     public static int maxContiguousSubArray(int[] nums) {
        int meh = 0, msf = Integer.MIN_VALUE;

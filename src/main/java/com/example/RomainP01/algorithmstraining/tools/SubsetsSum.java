@@ -1,8 +1,10 @@
-package com.example.RomainP01.algorithmstraining.math;
+package com.example.RomainP01.algorithmstraining.tools;
 
 import java.util.ArrayList;
 import java.util.Collections;
 
+//Subsets Sum
+//Given an array of integers, find all possible subsets of the array and return the sum of all the subsets.
 public class SubsetsSum {
     static ArrayList<Integer> subsetSums(ArrayList<Integer> arr, int n)
     {
