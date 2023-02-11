@@ -1,4 +1,4 @@
-package com.example.RomainP01.algorithmstraining.leetcode.easy;
+package com.example.RomainP01.algorithmstraining.datastructures.array;
 
 public class TwoSums {
     public int[] twoSum(int[] nums, int target) {

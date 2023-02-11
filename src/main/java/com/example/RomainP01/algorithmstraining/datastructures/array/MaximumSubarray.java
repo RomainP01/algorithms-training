@@ -1,4 +1,4 @@
-package com.example.RomainP01.algorithmstraining.leetcode.medium;
+package com.example.RomainP01.algorithmstraining.datastructures.array;
 
 import java.util.ArrayList;
 import java.util.Collections;

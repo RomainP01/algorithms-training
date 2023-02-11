@@ -1,4 +1,4 @@
-package com.example.RomainP01.algorithmstraining.leetcode.easy;
+package com.example.RomainP01.algorithmstraining.datastructures.array;
 
 public class MergeSortedArray {
     public void merge(int[] nums1, int m, int[] nums2, int n) {

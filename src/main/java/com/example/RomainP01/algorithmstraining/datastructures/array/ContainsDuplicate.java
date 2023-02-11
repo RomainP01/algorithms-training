@@ -1,4 +1,4 @@
-package com.example.RomainP01.algorithmstraining.leetcode.easy;
+package com.example.RomainP01.algorithmstraining.datastructures.array;
 
 import java.util.HashSet;
 import java.util.Set;
