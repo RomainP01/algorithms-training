@@ -1,18 +1,12 @@
 package com.example.RomainP01.algorithmstraining.datastructures.linkedlist;
 
+import com.example.RomainP01.algorithmstraining.model.ListNode;
+
 import java.util.List;
 
 public class LinkedListCycle {
 
-    class ListNode {
-        int val;
-        ListNode next;
 
-        ListNode(int x) {
-            val = x;
-            next = null;
-        }
-    }
 
     public boolean hasCycle(ListNode head) {
         if (head == null) {
